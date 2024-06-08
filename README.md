@@ -11,8 +11,5 @@ This Flutter App interacts with Google's Vertex Ai.
 #Fluter #Firebase #FlutterFire 📱 🔥\
 #Gemini #GoogleGemini #GoogleGeminiAi ♊️\
 #Vertex #GoogleVertex #GoogleVertexAi\
-\
-\
 
-\
-![Flutter Fire](images/mobilefire_logo.png)
+
