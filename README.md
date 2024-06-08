@@ -13,6 +13,6 @@ This Flutter App interacts with Google's Vertex Ai.
 #Vertex #GoogleVertex #GoogleVertexAi\
 
 
-Istagram: juscodecr
+Instagram: juscodecr
 X: hackingtechcr
 linkedin: https://www.linkedin.com/in/justin-arguello-rodr%C3%ADguez-29001420b/
