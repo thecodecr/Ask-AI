@@ -1,4 +1,4 @@
-# Flutter Vertex Chat App
+# Ask AI
 
 It's LIVE 🎉 I finally finished building Flutter Vertex Chat App.\
 Built with Flutter and powered by Firebase and conected to the power of Google Vertex Ai.\
