@@ -16,3 +16,8 @@ This Flutter App interacts with Google's Vertex Ai.
 Instagram: juscodecr
 X: hackingtechcr
 linkedin: https://www.linkedin.com/in/justin-arguello-rodr%C3%ADguez-29001420b/
+![Captura de pantalla (6)](https://github.com/thecodecr/Ask-AI/assets/66757950/b1f3ed6c-860f-40fc-ade7-214aaa725d8d)
+![Captura de pantalla (10)](https://github.com/thecodecr/Ask-AI/assets/66757950/7e53d89e-e8ae-4875-9aec-3250a9bd3569)
+![Captura de pantalla (12)](https://github.com/thecodecr/Ask-AI/assets/66757950/b185c292-8d8e-42e1-829f-22781e5f2130)
+
+
